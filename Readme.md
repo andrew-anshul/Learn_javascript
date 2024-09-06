@@ -3,3 +3,6 @@
 
 //Reference (Non primitive)
 //Array , objects , functions
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+           Stack (Primitive), Heap (Non-Primitive)
